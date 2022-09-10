@@ -1,0 +1,58 @@
+.top{
+    background-image: url(https://www.solidbackgrounds.com/images/2560x1440/2560x1440-deep-sky-blue-solid-color-background.jpg);
+    margin: auto;
+    width: 50%;
+    height: 40vh;
+}
+.middle{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    height: 30vh;
+}
+.bottom{
+    margin: auto;
+    width: 50%;
+    height: 30vh;
+}
+.fa-brands{
+    margin: 20px;
+    padding: 10px;
+}
+.welcome{
+    padding-top: 13%;
+    color: white;
+    text-align: center;
+}
+.join{
+    padding-top: 60px;
+    text-align: center;
+    color: black;
+}
+img{
+    width: 25vw;
+}
+button{
+    margin-left: 38%;
+    padding: 9px;
+    width: 9vw;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 18px;
+    border: 0;
+    cursor: pointer;
+}
+iframe{
+    margin-left: 25vw;
+    width: 50%;
+    height: 50vh;
+}
+footer{
+    text-align: center;
+}
+hr{
+    border-bottom: 0;
+}
+#f{
+    text-align: center;
+}
